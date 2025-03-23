@@ -6,6 +6,9 @@ function App() {
             flexDirection: 'column',
             justifyContent: 'space-between',
             minHeight: '100vh',
+            width: '100%',
+            backgroundColor: 'grey',
+            color: 'white',
          }}
       >
          <header
