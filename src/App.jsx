@@ -8,7 +8,7 @@ function App() {
             width: '100%',
             backgroundColor: 'grey',
             color: 'white',
-            fontSize: '1.5rem',
+            fontSize: '2rem',
          }}
       >
          <h1 style={{ fontSize: '2rem', marginInlineStart: '50px' }}>
